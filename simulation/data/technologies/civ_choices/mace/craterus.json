@@ -1,4 +1,8 @@
 {
 	"genericName": "General Craterus",
-	"icon": "mace_hero_craterus_card.png"
+	"description": "General Craterus.",
+	"icon": "mace_hero_craterus_card.png",
+	"tooltip": "Select General Craterus to lead your civilization.",
+	"modifications": [],
+	"affects": []
 }
