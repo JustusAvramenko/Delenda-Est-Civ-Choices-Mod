@@ -1,4 +1,4 @@
-const CIV_CHOICE_BUTTON_WIDTH = 276;
+const CIV_CHOICE_BUTTON_WIDTH = 256;
 const CIV_CHOICE_BUTTON_SPACING = 50;
 
 function initCivChoicesDialog()
