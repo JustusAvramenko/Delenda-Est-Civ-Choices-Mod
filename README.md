@@ -6,4 +6,4 @@ Based upon work by Alexander Olkhovskiy: https://github.com/AlexanderOlkhovskiy/
 
 The first test civ is the Macedonians, the 4 heroes being:
 
-<img src="https://i.imgur.com/xa7JjWx.png" width="256"><img src="https://i.imgur.com/Nlt55JA.png" width="256"><img src="https://i.imgur.com/Nc8CQlp.png" width="256"><img src="https://i.imgur.com/jbJVMID.png" width="256">
+<img src="https://i.imgur.com/xa7JjWx.png" width="200"><img src="https://i.imgur.com/Nlt55JA.png" width="200"><img src="https://i.imgur.com/Nc8CQlp.png" width="200"><img src="https://i.imgur.com/jbJVMID.png" width="200">
