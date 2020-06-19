@@ -6,8 +6,8 @@
 	hidden="true"
 >
 	<repeat count="4" var="n">
-		<object name="civChoice[n]" size="50 -150 200 560" type="button" style="StoneButton" hidden="true">
-      <object name="civChoiceIcon[n]" size="10 10 266 700" type="image" ghost="true" hidden="false"/>
+		<object name="civChoice[n]" size="0 0 266 710" type="button" style="StoneButton" hidden="true">
+			<object name="civChoiceIcon[n]" size="10 10 256 700" type="image" ghost="true" hidden="false"/>
 		</object>
 	</repeat>
 </object>
